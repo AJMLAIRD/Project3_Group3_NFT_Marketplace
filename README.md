@@ -1,4 +1,4 @@
-# NFT Marketplace
+# NFT Marketplace Project 3 Group 3 
 
 ## Technology Stack & Tools
 
